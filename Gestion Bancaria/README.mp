@@ -1,2 +1,2 @@
-# Gestión de Recursos Humanos
+# Gestión Bancaria
 Proyecto de análisis y visualización interactiva con Power BI...
