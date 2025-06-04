@@ -1,2 +1,2 @@
-# Gestión Bancaria
+# Gestión Bancaria (proximamente)
 Proyecto de análisis y visualización interactiva con Power BI...
