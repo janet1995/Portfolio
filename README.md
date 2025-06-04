@@ -39,7 +39,7 @@ Dashboard interactivo desarrollado a partir de más de **50.000 registros simula
 - Obras sociales y aseguradoras  
 - Consultoras en salud
 
-[🔗 Ver proyecto]
+[🔗 Ver proyecto] (https://github.com/janet1995/Portfolio/tree/main/gestion-hospitalaria)
 
 ---
 
