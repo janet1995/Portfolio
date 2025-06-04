@@ -62,7 +62,8 @@ Proyecto de análisis sobre más de **10.000 registros simulados de empleados**,
 - Consultoras organizacionales  
 - Gestión estratégica y financiera del talento
 
-[🔗 Ver proyecto]
+[🔗 Ver proyecto] (https://github.com/janet1995/Portfolio/tree/main/Gesti%C3%B3n-de%20Recursos-Humanos)
+
 
 ---
 
